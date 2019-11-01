@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="task1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/26/2019 13:16:49</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="task2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/26/2019 14:59:56</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="task3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/26/2019 15:50:37</Property>
+      <Property Name="RunDuration">00:00:15</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

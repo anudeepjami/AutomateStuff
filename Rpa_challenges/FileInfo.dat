@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="dynamic website.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2019 02:23:44</Property>
+      <Property Name="RunDuration">00:00:38</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="dynamic website2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/29/2019 11:40:29</Property>
+      <Property Name="RunDuration">00:00:39</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

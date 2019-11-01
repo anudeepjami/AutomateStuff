@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="email.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/30/2019 18:27:31</Property>
+      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
