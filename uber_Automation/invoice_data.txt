@@ -1,0 +1,28 @@
+Category of services: Passenger Transport Services
+Details of ECO under GST:   Name: Uber India Systems Private Limited
+Address: 509, MKN Road Alandur, Chennai, Tamil Nadu
+GST:  33AABCU6223H1ZL
+Tax Invoice
+Mahi L
+Ernst & Young Services Private Limited
+ 
+Invoice issued by Uber on behalf of:
+TAMILSELVAM E
+Tamil Nadu
+Invoice Number: GPRRSOML-03-2019-0003946
+Invoice Date: 25 October 2019
+Place of supply (Name of state): Tamil Nadu
+HSN Code: 9964
+  
+Tax Point Date Description  
+Tax Amount
+ Net Amount 
+25 Oct 2019 Transportation service  
+ Fare CGST 2.5 % 5.15  
+  SGST/UTGST 2.5 % 5.15 205.99 INR 
+ [Perungudi Toll Entry] CGST 2.5 % 0.68  
+  SGST/UTGST 2.5 % 0.68 26.99 INR 
+Total net 232.98 INR 
+Total CGST Amount 5.83 INR 
+Total SGST/UTGST Amount 5.83 INR 
+Gross Amount 244.64 INR 

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="login.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2019 21:00:39</Property>
+      <Property Name="RunDuration">00:04:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Credentials.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2019 21:00:39</Property>
+      <Property Name="RunDuration">00:04:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DataExtraction.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2019 21:00:23</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DateValidation.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2019 21:00:24</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Clean Everything.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/05/2019 21:00:39</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
