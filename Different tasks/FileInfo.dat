@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="ClipBoard.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 15:48:10</Property>
+      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SQL create sample data in your local database.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 17:18:28</Property>
+      <Property Name="RunDuration">00:01:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SQL.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 17:41:41</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Delay &amp; Email.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 18:00:18</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Error Handling.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 21:28:25</Property>
+      <Property Name="RunDuration">00:01:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="EXCEL.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 22:01:15</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="FTP or SFTP.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/18/2020 23:02:01</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Excel as Database.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/21/2020 11:49:36</Property>
+      <Property Name="RunDuration">00:00:15</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
